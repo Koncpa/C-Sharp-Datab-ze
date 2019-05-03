@@ -9,6 +9,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+//Autor backendu:Patrik Končitý
+//Autor frontendu:Martin Šípek
 
 namespace BoopProjektKoncitySipek
 {
